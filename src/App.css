@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+form{
+  margin: 10%;
+  background-color: rgb(224, 220, 184);
+
+}
+h2{
+  text-align: center;
+  color: aqua;
+}
+img{
+  padding-left: 25%;
+}
+.container-fluid{
+ background-color: aqua;
+}
+
+ 
